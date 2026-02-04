@@ -4,7 +4,7 @@ Assets and codebase for the Multi-Agent Synchronized Collaborative Assembly Repl
 # Overview Video
 View here:  https://youtu.be/IEJgwW6c2EQ
 
-[ [![MASCAR intro video](http://img.youtube.com/vi/IEJgwW6c2EQ/0.jpg)](http://www.youtube.com/watch?v=IEJgwW6c2EQ "Introduction to MASCAR") ]: #
+[//]: # ( [![MASCAR intro video](http://img.youtube.com/vi/IEJgwW6c2EQ/0.jpg)](http://www.youtube.com/watch?v=IEJgwW6c2EQ "Introduction to MASCAR") )
 
 [![MASCAR intro video](/MASCAR_video_thumbnail.png)](http://www.youtube.com/watch?v=IEJgwW6c2EQ "Introduction to MASCAR")
 
